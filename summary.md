@@ -20,19 +20,19 @@
 </blockquote>
 <img src="http://pixel.lide.repl.co/img1.png" alt="Saveing Work"> 
 
-# ✨Reach for the STARS✨
-<blockquote>
-  Be creative and reach endless possibilities! 
-</blockquote>
-<img src="https://forum.wickeditor.com/uploads/default/original/2X/f/f1208b702ad663c58768ac424fd0555da31ccb3b.png" alt="A Bird Under the Stars">
-
 # 🆕 Accessible to Anyone! 🆓
 <blockquote>
-  This project is an online free animating software for anyone!<br>This project was put together with repl.it and can be accessed from [here :)](http://pixel.lide.repl.co/)
+  This project is an online free animating software for anyone!<br>This project was put together with repl.it and can be accessed with <a href= "http://pixel.lide.repl.co/">one click! </a>
 </blockquote>
 <img src="http://pixel.lide.repl.co/img4.png" alt="Project in repl"> 
 
+# ✨Reach for the STARS✨
+<blockquote>
+  Hey, what are you waiting for?!? Start your path, be creative, and reach endless possibilities! 
+</blockquote>
+<img src="https://forum.wickeditor.com/uploads/default/original/2X/f/f1208b702ad663c58768ac424fd0555da31ccb3b.png" alt="A Bird Under the Stars">
+
 # Credits:
-- Created by Hamzah Alani
-- Created With Wick Editor 1.19
-- Edited and put together with repl.it
+- Created by Hamzah Alani 
+- Created With Wick Editor 1.19 
+- Edited and put together with repl.it 
