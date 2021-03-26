@@ -10,18 +10,27 @@
 
 # 🔭 Watch progress on the forums? 💬
 <blockquote>
-  Find more info, check out <a href="https://forum.wickeditor.com/t/pixel-lide-pixel-art-animations/6072?u=hamzah_al_ani">this post</a> on the forums :)
+  Check out <a href="https://forum.wickeditor.com/t/pixel-lide-pixel-art-animations/6072?u=hamzah_al_ani">this post</a> on the forums :)
 </blockquote>
 <img src="http://pixel.lide.repl.co/img3.png" alt="Forums"> 
 
 # ✅ Load/ Save your Work! ☕
+<blockquote>
+  A new feature was recently added to allow you to save your work!
+</blockquote>
 <img src="http://pixel.lide.repl.co/img1.png" alt="Saveing Work"> 
 
-# 🌈 Share your Project by Sharelink or Text Code! 🍀
-<img src="http://pixel.lide.repl.co/img2.png" alt="Sharing Work"> 
-
 # ✨Reach for the STARS✨
+<blockquote>
+  Be creative and reach endless possibilities! 
+</blockquote>
 <img src="https://forum.wickeditor.com/uploads/default/original/2X/f/f1208b702ad663c58768ac424fd0555da31ccb3b.png" alt="A Bird Under the Stars">
+
+# 🆕 Accessible to Anyone! 🆓
+<blockquote>
+  This project is an online free animating software for anyone!<br>This project was put together with repl.it and can be accessed from [here :)](http://pixel.lide.repl.co/)
+</blockquote>
+<img src="http://pixel.lide.repl.co/img4.png" alt="Project in repl"> 
 
 # Credits:
 - Created by Hamzah Alani
