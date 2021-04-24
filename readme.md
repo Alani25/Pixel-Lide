@@ -36,3 +36,4 @@
 - Created by Hamzah Alani 
 - Created With Wick Editor 1.19 
 - Edited and put together with repl.it 
+- More credits in the "About" section
